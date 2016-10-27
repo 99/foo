@@ -1,0 +1,1 @@
+print('Foo is awesome')
