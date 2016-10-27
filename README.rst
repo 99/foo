@@ -1,4 +1,4 @@
-A FOO Python project
+A Foo project
 =======================
 
 This projects does not aim to cover best practices for Python project
